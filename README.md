@@ -1,5 +1,8 @@
 # Ziglings
 
+_***Completed 12/10/24:**_
+![Screenshot 2024-10-12 at 16 51 09@2x](https://github.com/user-attachments/assets/2a160851-c5a7-4b5c-a5c3-5d86d8a325b6)
+
 Welcome to Ziglings! This project contains a series of tiny
 broken programs (and one nasty surprise).  By fixing them, you'll
 learn how to read and write [Zig](https://ziglang.org/) code.
